@@ -9,17 +9,17 @@ This project is a **Streamlit** app that fetches and displays information about 
 
 ## Example
 
-- **If you enter:**
+**If you enter:**
 Canada
 
-- **The output will display:**
-- **Name**: Canada
-- **Capital**: Ottawa
-- **Population**: 38,005,238
-- **Area**: 9,984,670 sq. km
-- **Region**: Americas
-- **Languages**: English, French
-- **Currencies**: Canadian dollar (C$)
+**The output will display:**
+- Name: Canada
+- Capital: Ottawa
+- Population: 38,005,238
+- Area: 9,984,670 sq. km
+- Region: Americas
+- Languages: English, French
+- Currencies: Canadian dollar (C$)
 
 ## Requirements
 
