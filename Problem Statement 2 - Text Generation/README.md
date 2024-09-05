@@ -9,10 +9,10 @@ This project demonstrates text generation using a **pre-trained GPT-2 model** fr
 
 ## Example
 
-**If you input:**
+- **If you input:**
 Once upon a time,
 
-**The GPT-2 model will generate a continuation based on this prompt, such as:**
+- **The GPT-2 model will generate a continuation based on this prompt, such as:**
 Once upon a time, there was a small village nestled in the mountains. The villagers lived in peace, tending to their farms and caring for their families. One day, however, a strange traveler arrived at the village gates, bringing with him tales of distant lands and ancient magic.
 
 ## Requirements
