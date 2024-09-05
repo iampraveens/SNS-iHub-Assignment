@@ -3,6 +3,17 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 # Define the text generation function
 def generate_text(prompt, model_name='gpt2', max_length=150):
+    """
+    Generate text using a pre-trained GPT-2 model.
+
+    Args:
+        prompt (str): The input prompt to generate text from.
+        model_name (str, optional): The name of the pre-trained GPT-2 model to use. Defaults to 'gpt2'.
+        max_length (int, optional): The maximum length of the generated text. Defaults to 150.
+
+    Returns:
+        str: The generated text.
+    """
     # Load the tokenizer for the given model
     tokenizer = GPT2Tokenizer.from_pretrained(model_name)
     
