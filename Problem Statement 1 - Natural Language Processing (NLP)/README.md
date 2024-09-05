@@ -57,9 +57,9 @@ This will start the Streamlit server and open the app in your default web browse
 2. Click the Process Text button to view the filtered tokens.
 
 ## File Structure
-- tokenizer.py: Main script containing the Streamlit app and tokenization function.
-- requirements.txt: Lists the dependencies required to run the app.
-- README.md: Project documentation (this file).
+**tokenizer.py:** Main script containing the Streamlit app and tokenization function.
+**requirements.txt:** Lists the dependencies required to run the app.
+**README.md:** Project documentation (this file).
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
