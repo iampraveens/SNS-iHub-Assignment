@@ -47,7 +47,7 @@ To run this project, you will need the following Python packages:
 
 To run the Streamlit app, execute the following command:
 ```bash
-streamlit run app.py
+streamlit run tokenizer.py
 ```
 
 This will start the Streamlit server and open the app in your default web browser.

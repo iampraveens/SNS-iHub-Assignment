@@ -42,7 +42,7 @@ To run this project, you will need the following Python packages:
 
 To run the Streamlit app, execute the following command:
 ```bash
-streamlit run app.py
+streamlit run text_generation.py
 ```
 
 This will start the Streamlit server and open the app in your default web browser.
@@ -57,7 +57,7 @@ This will start the Streamlit server and open the app in your default web browse
 - You can change the num_beams parameter to adjust the beam search settings for text generation.
 
 ## File Structure
-- **app.py:** Main script containing the Streamlit app and GPT-2 text generation logic.
+- **text_generation.py:** Main script containing the Streamlit app and GPT-2 text generation logic.
 - **requirements.txt:** Lists the dependencies required to run the app.
 - **README.md:** Project documentation (this file).
 
