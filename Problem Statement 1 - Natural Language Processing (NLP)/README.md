@@ -8,10 +8,10 @@ This project demonstrates how to preprocess and tokenize text using **spaCy** wi
 - **Interactive UI**: A simple Streamlit web interface allows users to input text and view the results in real-time.
 
 ## Example
-If you input:
+**If you input:**
 Hi, Everyone! This is an example phrase.
 
-The output will be:
+**The output will be:**
 [hi, example, phrase]
 
 ## Requirements
@@ -57,9 +57,9 @@ This will start the Streamlit server and open the app in your default web browse
 2. Click the Process Text button to view the filtered tokens.
 
 ## File Structure
-- app.py: Main script containing the Streamlit app and tokenization function.
-- requirements.txt: Lists the dependencies required to run the app.
-- README.md: Project documentation (this file).
+- **tokenizer.py:** Main script containing the Streamlit app and tokenization function.
+- **requirements.txt:** Lists the dependencies required to run the app.
+- **README.md:** Project documentation (this file).
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
