@@ -62,4 +62,4 @@ This will start the Streamlit server and open the app in your default web browse
 - **README.md:** Project documentation (this file).
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details..
